@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\9.hafta\cumartesi\PersonelTakipSistemi\PersonelTakipSistemi\bin\Debug\PersonelTakipSistemi.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\9.hafta\cumartesi\PersonelTakipSistemi\PersonelTakipSistemi\bin\Debug\PersonelTakipSistemi.exe
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\9.hafta\cumartesi\PersonelTakipSistemi\PersonelTakipSistemi\bin\Debug\PersonelTakipSistemi.pdb
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\9.hafta\cumartesi\PersonelTakipSistemi\PersonelTakipSistemi\obj\Debug\PersonelTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\9.hafta\cumartesi\PersonelTakipSistemi\PersonelTakipSistemi\obj\Debug\PersonelTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\9.hafta\cumartesi\PersonelTakipSistemi\PersonelTakipSistemi\obj\Debug\PersonelTakipSistemi.exe
+C:\Users\alitu\OneDrive\Masaüstü\vekörel bilişim\9.hafta\cumartesi\PersonelTakipSistemi\PersonelTakipSistemi\obj\Debug\PersonelTakipSistemi.pdb
